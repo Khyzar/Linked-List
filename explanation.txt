@@ -1,0 +1,8 @@
+slist      //singly list
+slist_wh   //singly list with head node
+slist_c    //singly list circular
+slist_cwh  //singly list circular with head node
+dlist      //doubly list
+dlist_wh   //doubly list with head node
+dlist_c    //doubly list circular
+dlist_cwh //doubly list with head node
